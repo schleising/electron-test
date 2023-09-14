@@ -1,0 +1,23 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "A test GUI written using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schleising/electron-test.git"
+  },
+  "author": "Stephen Schleising",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/schleising/electron-test/issues"
+  },
+  "homepage": "https://github.com/schleising/electron-test#readme",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
